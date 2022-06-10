@@ -3,9 +3,11 @@
 echo 'Enter the commit message'
 read commitMessage
 
+now="$(date)"
+
 git add .
-git commit -m "$commitMessage"
+git commit -m "$now"
 
 git push origin main
 
-read
+exit N
