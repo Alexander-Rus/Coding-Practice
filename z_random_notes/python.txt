@@ -1,0 +1,1 @@
+So you should use if __name__ = __main__ because it essentially says that this is a fie that is meant to be run, it is not a library file. It also allows you to avoid using global variables that you did not mean to, and if you import the code into another file, it will automattically run, when in reality we want to call it.

@@ -1,0 +1,8 @@
+So for attempt 1, I did the non-intuitive solution. I set up two for loops. The first loop will loop through the list and look at each value one at a time. For each value it will then look at all other values in the list.
+
+In theory we are wasting time because we are comparing the value to itself, which we know cannot happen, correct. And we are doing a loop within a loop which is never a good idea. 
+
+What is the time and space complexity of this solution? I'm not sure. Let's find out. 
+
+
+So for attempt two we are relying on the ideat that we know there can only be two numbers that add up to the target value. No more and no less. So if num1 + num2 = target, then we know that if we can do num1 = target - num2. So if we store the items we already looked at in the dictionary, then we can do this in one pass. (One pass is good)
