@@ -3,9 +3,6 @@
   Notes on Solution
 </h1>
 
-It is always a good idea to practice coding, no matter how advanced you think you may be. In this repository I plan on collecting practice problems, solving them to the best of my ability, and giving an explanation as to how one should arrive at the best solution.
-
-Most of these problems will be taken from [LeetCode](https://leetcode.com/). I occassionally may add other problems as well.
 
 ## 1 Brute Force Solution
 
@@ -51,10 +48,5 @@ So what makes this solution work well, is that looking in the dicionary has a ne
 Additionally, we use enumerate to easily pair indices to values in the array.
 
 
-## 💫 Good Luck
-
-Good luck, and have fun!
-
-<!-- AUTO-GENERATED-CONTENT:END -->
 
 
