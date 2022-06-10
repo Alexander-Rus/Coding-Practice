@@ -1,9 +1,6 @@
 #!/usr/bin/env bash
 
-echo 'Enter the commit message'
-read commitMessage
-
-now="$(date)"
+now="Commit version $(date)"
 
 git add .
 git commit -m "$now"
