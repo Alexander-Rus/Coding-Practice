@@ -14,7 +14,7 @@ Most of these problems will be taken from [LeetCode](https://leetcode.com/). I o
 
 1.  Clone this repository to your local machine.
 
-    Problem sets are seperated into individual folders. You can navigate to a folder and chose the language that you wish to work in. For algorithm type questions I will usually default to python for simplicity sake, but Java and C++ are the two other languages that I want to practice as well.
+    Problem sets are seperated into individual folders. You can navigate to a folder and chose the language that you wish to work in. For algorithm questions I will usually default to python for the sake of simplicity, but Java and C++ are the two other languages I will include.
 
     Example:
     ```shell
