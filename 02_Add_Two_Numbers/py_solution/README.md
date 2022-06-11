@@ -31,5 +31,10 @@ Example:
 
     
 ## 2 Correct Solution 💫 
+This question is not too bad in my opinion, the tricky part is the edge cases. You need to be careful about adding the additional item to the list for the carry over value. 
+
+Additionally, you need to understand that the lists are not normal lists, they are nodes, that have values and then a next value. Interacting with the node is the important part of this problem.
+
+
 
 
